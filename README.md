@@ -1,2 +1,2 @@
-# alura3-HTML5-e-CSS3-p3
- Repositório do resultado construído no curso: HTML5 e CSS3 parte 2 - posicionamento, listas e navegação
+# 3º Curso Concluído na Alura
+ Repositório do resultado construído no curso: HTML5 e CSS3 parte 3 - trabalhando com formulários e tabelas
